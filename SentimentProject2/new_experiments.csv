@@ -1,0 +1,8 @@
+Sample_Size,Max_Features,Accuracy,Notes
+2000,1000,0.83,"Small data, small vocab"
+2000,3000,0.835,"Small data, medium vocab"
+2000,5000,0.835,"Small data, larger vocab"
+4000,1000,0.865,"More data, small vocab"
+4000,3000,0.865,"More data, medium vocab"
+4000,5000,0.87,"More data, larger vocab"
+4000,6000,0.86875,"More data, even larger vocab"
